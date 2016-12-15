@@ -1,3 +1,9 @@
+This is forked from sindresorhus hyperterm theme. Using this as a starting point for my hyperterm config.
+
+https://github.com/sindresorhus/hyper-snazzy
+
+---
+
 # hyper-snazzy
 
 > Elegant [Hyper](https://hyper.is) theme with bright colors
